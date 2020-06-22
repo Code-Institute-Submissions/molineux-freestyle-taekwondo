@@ -6,12 +6,22 @@ body {
     font-family: "Sriracha", cursive;
 }
 
-
-
 /*--Header--*/
 
 .navbar--color {
     background-color: #e9ecef;
+}
+
+a {
+    color: rgba(0,0,0,.5);
+    text-decoration: none;
+    background-color: transparent;
+    padding: 8px;
+}
+
+nav a:hover {
+    color: rgba(0,0,0,.7);
+    text-decoration: none;
 }
 
 /*--Footer--*/
@@ -48,4 +58,10 @@ footer {
 
 .social-links li a i:hover {
     color: rgb(255, 0, 0);
+}
+
+/*--Sign Up--*/
+
+.signup-form-color {
+    background-color: #b2c1d1;
 }
