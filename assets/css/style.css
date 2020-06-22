@@ -1,0 +1,17 @@
+/*--Header--*/
+
+.navbar--color {
+    background-color: #e9ecef;
+}
+
+/*--Footer--*/
+
+footer {
+    background-color: #e9ecef;
+    min-height: 100px;
+    margin: 0;
+}
+
+.inline-block {
+    display: inline-block;
+}
