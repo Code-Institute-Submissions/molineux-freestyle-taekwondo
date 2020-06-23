@@ -56,8 +56,20 @@ nav a:hover {
 /*--About--*/
 
 .about-heading {
-    margin-top: 35px;
-    margin-bottom: 35px;
+    padding: 35px 0px;
+    background-color: #b2c1d1;
+    max-width: 100%;
+}
+
+img[src="/assets/images/three-kingdoms-of-korea.png"] {
+    margin: 25px 25px 15px 25px;
+    float: left;
+    max-width: 100%;
+}
+
+.about-heading p {
+    margin: 25px 25px;
+    float: none;
 }
 
 /*--Footer--*/
