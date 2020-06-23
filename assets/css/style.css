@@ -117,3 +117,16 @@ label {
 input[type="submit"] {
     margin-bottom: 20px;
 }
+
+/*-- Photos --*/
+
+#photos {
+  clear: both;
+  line-height: 0;
+  column-count: 4;
+  column-gap: 0;
+}
+
+#photos img {
+    width: 100%;
+}
