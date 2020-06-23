@@ -6,10 +6,6 @@ body {
     font-family: "Sriracha", cursive;
 }
 
-/*--Home--*/
-
-
-
 /*--Header--*/
 
 .navbar--color {
@@ -26,6 +22,35 @@ a {
 nav a:hover {
     color: rgba(0,0,0,.7);
     text-decoration: none;
+}
+
+/*--Callout--*/
+
+.callout-container {
+    height: 75vh;
+    color: rgb(0, 17, 255);
+
+    background: url("../images/taekwondo-kick.jpg") no-repeat center center; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+/*--Jumbotron--*/
+
+.jumbotron {
+    background-color: transparent;
+}
+
+.jumbotron-header {
+    font-weight: bold;
+    margin-bottom: 25px;
+}
+
+.jumbotron small {
+    font-style: italic;
+    color: rgb(0, 0, 0);
 }
 
 /*--Footer--*/
