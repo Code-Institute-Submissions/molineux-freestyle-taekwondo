@@ -6,6 +6,10 @@ body {
     font-family: "Sriracha", cursive;
 }
 
+/*--Home--*/
+
+
+
 /*--Header--*/
 
 .navbar--color {
@@ -64,4 +68,28 @@ footer {
 
 .signup-form-color {
     background-color: #b2c1d1;
+}
+
+.form-heading {
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
+
+.center-form {
+    padding-top: 15px;
+    margin: 0 auto;
+    max-width: 50%;
+}
+
+input[type="radio"] {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+label {
+    font-size: 20px;
+}
+
+input[type="submit"] {
+    margin-bottom: 20px;
 }
