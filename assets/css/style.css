@@ -38,6 +38,12 @@ nav a:hover {
     background-size: cover;
 }
 
+@media screen and (min-width: 100px) and (max-width: 480px) {
+  .callout-container {
+    background: url("../images/photo1.jpg") no-repeat center center fixed;
+  }
+}
+
 /*--Jumbotron--*/
 
 .jumbotron {
@@ -58,13 +64,7 @@ nav a:hover {
 .about-heading {
     padding: 35px 0px;
     background-color: #b2c1d1;
-    max-width: 100%;
-}
-
-img[src="/assets/images/three-kingdoms-of-korea.png"] {
-    margin: 25px 25px 15px 25px;
-    float: left;
-    max-width: 100%;
+    width: 100%;
 }
 
 .about-heading p {
