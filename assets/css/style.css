@@ -61,15 +61,20 @@ nav a:hover {
 
 /*--About--*/
 
-.about-heading {
-    padding: 35px 0px;
+.about-container {
+    padding: 35px 10px;
     background-color: #b2c1d1;
     width: 100%;
 }
 
-.about-heading p {
-    margin: 25px 25px;
-    float: none;
+.about-container img {
+    float: left;
+    padding: 10px 10px;
+    max-width: 100%;
+}
+
+.about-container p {
+    padding: 10px 10px;
 }
 
 /*--Footer--*/
