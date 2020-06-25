@@ -1,6 +1,6 @@
 # Molineux Freestyle Tae Kwon Do
 
-This site was created for my first milestone project as a student of the Full Stack Software Developer ourse which is provided by The Code Institute (https://codeinstitute.net/),
+This site was created for my first milestone project as a student of the Full Stack Software Developer ourse which is provided by [The Code Institute](https://codeinstitute.net/),
 the goal of this site is to educate people about Tae Kwon Do and its origins and also interest them in signing up to take part in classes.
 
 ## User Experience
@@ -32,25 +32,25 @@ the goal of this site is to educate people about Tae Kwon Do and its origins and
  * Celebrity Interviews - A page with interviews from celebrities on their studies of Tae Kwon Do and and using it in their everyday life.
  * To deal with present issue that is listed below due to time.
 
-## Technologies Used
+## Technologies
 
-  **_HTML_** - This was used to create all pages on this page. For information on this page click : https://en.wikipedia.org/wiki/HTML
+  **_HTML_** - This was used to create all pages on this page. For information on this page click [here](https://en.wikipedia.org/wiki/HTML)
 
-  **_CSS_** - This was used to style most of the elements on the page such as; fonts, color, spacing, positioning etc. For more information on this click : https://en.wikipedia.org/wiki/Cascading_Style_Sheets
+  **_CSS_** - This was used to style most of the elements on the page such as; fonts, color, spacing, positioning etc. For more information on this click [here](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 
-  **_Bootstrap_** - This is a CSS Framework that is deisigned to assist the programmer in creating responsive mobile-first sites. For more information click : https://getbootstrap.com/
+  **_Bootstrap_** - This is a CSS Framework that is deisigned to assist the programmer in creating responsive mobile-first sites. For more information click [here](https://getbootstrap.com/)
 
-  **_Git_** - This is a distributed version-control system for tracking changes in source code during software development. Click here : https://en.wikipedia.org/wiki/Git
+  **_Git_** - This is a distributed version-control system for tracking changes in source code during software development. Click [here](https://en.wikipedia.org/wiki/Git)
 
-  **_GitHub_** - This is a Git repository hosting service, it also provides a web-based graphical interface. Click here : https://github.com/ 
+  **_GitHub_** - This is a Git repository hosting service, it also provides a web-based graphical interface. Click [here](https://github.com/)
 
-  **_GitPod_** - This is an online IDE for GitHub that launches ready to code devenvironments for any project. Click here https://www.gitpod.io/
+  **_GitPod_** - This is an online IDE for GitHub that launches ready to code devenvironments for any project. Click [here](https://www.gitpod.io/)
 
-  **_Chrome DevTools_** - This is a set of web developer tools built directly into the Google Chrome browser. Click here : https://en.wikipedia.org/wiki/Web_development_tools 
+  **_Chrome DevTools_** - This is a set of web developer tools built directly into the Google Chrome browser. Click [here](https://en.wikipedia.org/wiki/Web_development_tools)
 
-  **_The W3C Markup Validation Service (HTML)_** - This was used to run all HTML code through and see if there are any errors in it. Click here : https://validator.w3.org/#validate_by_input
+  **_The W3C Markup Validation Service (HTML)_** - This was used to run all HTML code through and see if there are any errors in it. Click [here](https://validator.w3.org/#validate_by_input)
 
-  **_The W3C Markup Validation Service (HTML)_** - This was used to run all CSS code through and see if there are any errors in it. Click here : https://jigsaw.w3.org/css-validator/#validate_by_input
+  **_The W3C Markup Validation Service (HTML)_** - This was used to run all CSS code through and see if there are any errors in it. Click [here](https://jigsaw.w3.org/css-validator/#validate_by_input)
 
 ## Testing
 
@@ -62,15 +62,17 @@ the goal of this site is to educate people about Tae Kwon Do and its origins and
 
  4. Present issue - a decoration on the first 3 social links when hovered on, due to time restraints due to having to submit the project this has not been tendered to as of yet.
 
+ ![Issue with text decoration showing](/assets/images/issue1.jpg)
+
 ## Deployment
 
  #### Step 1
 
- Create a GitHub Account <a src="https://github.com/">(click Here)</a>
+ Create a GitHub Account [GitHub](https://github.com/)
 
  #### Step 2
 
- Upload all of my files to my GitHub repository located <a src="https://github.com/bubbly16/molineux-freestyle-taekwondo">here</a>
+ Upload all of my files to my GitHub repository located [My Repository](https://github.com/bubbly16/molineux-freestyle-taekwondo)
 
  #### Step 3
 
@@ -80,16 +82,16 @@ the goal of this site is to educate people about Tae Kwon Do and its origins and
 
 ## Credits
 
- 1. Adegbenga Adeye - For code in the Navigation Bar which included a Search bar. https://www.linkedin.com/in/adegbenga-adeye-14003635/
+ 1. [Adegbenga Adeye](https://www.linkedin.com/in/adegbenga-adeye-14003635/) - For code in the Navigation Bar which included a Search bar.
 
- 2. Am I Responsive - For being able to check the sites display on different viewports. http://ami.responsivedesign.is/
+ 2. [Am I Responsive](http://ami.responsivedesign.is/) - For being able to check the sites display on different viewports.
 
- 3. Font Awesome - For icons used. https://fontawesome.com/
+ 3. [Font Awesome](https://fontawesome.com/) - For icons used.
 
- 4. Stack Overflow - For help with code resolutions. https://stackoverflow.com/
+ 4. [Stack Overflow](https://stackoverflow.com/) - For help with code resolutions.
 
- 5. W3 Schools - For help with code resolutions and also with conversion. https://www.w3schools.com/
+ 5. [W3 Schools](https://www.w3schools.com/) - For help with code resolutions and also with conversion.
 
- 6. Google Fonts - For font styles. https://fonts.google.com/ 
+ 6. [Google Fonts](https://fonts.google.com/) - For font styles. 
 
- 7. Slack - For the various different channels with different information pinned, even in information is not used, it is still helpful to learn. https://slack.com/intl/en-gb/
+ 7. [Slack](https://slack.com/intl/en-gb/) - For the various different channels with different information pinned, even in information is not used, it is still helpful to learn.
