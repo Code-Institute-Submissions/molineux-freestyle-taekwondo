@@ -67,6 +67,11 @@ nav a:hover {
     color: rgb(255,0,0);
 }
 
+.table td, .table th {
+    padding: 5px;
+    vertical-align: top;
+}
+
 /*--About--*/
 
 .about-container {
@@ -95,10 +100,6 @@ footer {
 
 .inline-block {
     display: inline-block;
-}
-
-.col-sm-6 h5 {
-    padding: 0px;
 }
 
 .social-links {
