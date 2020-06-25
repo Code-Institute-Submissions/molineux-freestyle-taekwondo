@@ -30,6 +30,7 @@ nav a:hover {
 .callout-container {
     height: 75vh;
     color: #007bff;
+    z-index: 4;
 
     background: url("../images/taekwondo-kick.jpg") no-repeat center center fixed; 
     -webkit-background-size: cover;
