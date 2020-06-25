@@ -97,3 +97,8 @@ the goal of this site is to educate people about Tae Kwon Do and its origins and
  7. [Google Fonts](https://fonts.google.com/) - For font styles. 
 
  7. [Slack](https://slack.com/intl/en-gb/) - For the various different channels with different information pinned, even in information is not used, it is still helpful to learn.
+
+ ## Acknowlegement
+
+ I would like to give a massive thank you to Adegbenga Adeye for all the help and advice he has given throught the milestone.
+ I would like to give thanks to Code Institute tutors that helped throughout the course getting to this milestone.
