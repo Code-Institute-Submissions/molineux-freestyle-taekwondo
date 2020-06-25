@@ -38,7 +38,7 @@ nav a:hover {
     background-size: cover;
 }
 
-@media screen and (min-width: 100px) and (max-width: 480px) {
+@media screen and (min-width: 100px) and (max-width: 700px) {
   .callout-container {
     background: url("../images/photo1.jpg") no-repeat center center fixed;
   }
@@ -111,6 +111,13 @@ footer {
 
 .social-links li a i:hover {
     color: rgb(255, 0, 0);
+}
+
+/*--Opening Times--*/
+
+.opening-times-container {
+    padding: 25px 10px;
+    background-color: #b2c1d1;
 }
 
 /*--Sign Up--*/
