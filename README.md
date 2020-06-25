@@ -82,19 +82,17 @@ the goal of this site is to educate people about Tae Kwon Do and its origins and
 
 ## Credits
 
- 1. [Adegbenga Adeye](https://www.linkedin.com/in/adegbenga-adeye-14003635/) - For code in the Navigation Bar which included a Search bar.
+ 1. [Am I Responsive](http://ami.responsivedesign.is/) - For being able to check the sites display on different viewports.
 
- 2. [Am I Responsive](http://ami.responsivedesign.is/) - For being able to check the sites display on different viewports.
+ 2. [Font Awesome](https://fontawesome.com/) - For icons used.
 
- 3. [Font Awesome](https://fontawesome.com/) - For icons used.
+ 3. [Bootstrap](https://getbootstrap.com/) - For table used on Sign Up page. 
 
- 4. [Bootstrap](https://getbootstrap.com/) - For table used on Sign Up page. 
+ 4. [Stack Overflow](https://stackoverflow.com/) - For help with code resolutions.
 
- 5. [Stack Overflow](https://stackoverflow.com/) - For help with code resolutions.
+ 5. [W3 Schools](https://www.w3schools.com/) - For help with code resolutions and also with conversion.
 
- 6. [W3 Schools](https://www.w3schools.com/) - For help with code resolutions and also with conversion.
-
- 7. [Google Fonts](https://fonts.google.com/) - For font styles. 
+ 6. [Google Fonts](https://fonts.google.com/) - For font styles. 
 
  7. [Slack](https://slack.com/intl/en-gb/) - For the various different channels with different information pinned, even in information is not used, it is still helpful to learn.
 
