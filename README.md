@@ -62,7 +62,7 @@ the goal of this site is to educate people about Tae Kwon Do and its origins and
 
  4. Present issue - a decoration on the first 3 social links when hovered on, due to time restraints due to having to submit the project this has not been tendered to as of yet.
 
- ![Issue with text decoration showing](/assets/issues/issue1.jpg)
+ ![Issue with text decoration showing](assets/issues/issue1.jpg)
 
 ## Deployment
 
