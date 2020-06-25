@@ -88,10 +88,12 @@ the goal of this site is to educate people about Tae Kwon Do and its origins and
 
  3. [Font Awesome](https://fontawesome.com/) - For icons used.
 
- 4. [Stack Overflow](https://stackoverflow.com/) - For help with code resolutions.
+ 4. [Bootstrap](https://getbootstrap.com/) - For table used on Sign Up page. 
 
- 5. [W3 Schools](https://www.w3schools.com/) - For help with code resolutions and also with conversion.
+ 5. [Stack Overflow](https://stackoverflow.com/) - For help with code resolutions.
 
- 6. [Google Fonts](https://fonts.google.com/) - For font styles. 
+ 6. [W3 Schools](https://www.w3schools.com/) - For help with code resolutions and also with conversion.
+
+ 7. [Google Fonts](https://fonts.google.com/) - For font styles. 
 
  7. [Slack](https://slack.com/intl/en-gb/) - For the various different channels with different information pinned, even in information is not used, it is still helpful to learn.
