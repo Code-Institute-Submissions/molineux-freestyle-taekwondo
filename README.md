@@ -60,7 +60,9 @@ the goal of this site is to educate people about Tae Kwon Do and its origins and
 
  3. Chrome DevTools - was used generously for styling and spacing and also viewport screens.
 
- 4. Present issue - a decoration on the first 3 social links when hovered on, due to time restraints due to having to submit the project this has not been tendered to as of yet.
+ 4. Also found site looked better on mobile with only 2 quotes showing instead of 3.
+
+ 5. Present issue - a decoration on the first 3 social links when hovered on, due to time restraints due to having to submit the project this has not been tendered to as of yet.
 
  ![Issue with text decoration showing](assets/issues/issue1.jpg)
 
